@@ -1,8 +1,8 @@
-package Sistema;
+package SistemaCocaColaCompany;
 
 import java.util.Scanner;
 
-public class Sistema {
+public class SistemaCocaColaCompany {
     public static void main(String args []){
         Scanner in = new Scanner(System.in);
         String nombre = "";

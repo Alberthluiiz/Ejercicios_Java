@@ -1,4 +1,4 @@
-package Ciclos;
+package CiclosNumeros;
 
 public class Ciclos {
     public static void main(String args[]){

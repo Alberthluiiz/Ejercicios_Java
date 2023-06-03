@@ -1,4 +1,4 @@
-package CiclosTwo;
+package CiclosSeries;
 
 public class CiclosTwo {
     public static void main(String args[]){
