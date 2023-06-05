@@ -1,13 +1,13 @@
-        /*Realizar un programa que solicite desde teclado una cadena de caracteres, posteriormente
-        el programa debe indicar a traves de un mensaje en pantalla, la cantidad de caracteres que
-        pose dicha cadena. Finalmente el programa debe de preguntar al usuario, ¿que parte de
-        la cadena desea obtener?*/
+/*Realizar un programa que solicite desde teclado una cadena de caracteres, posteriormente
+el programa debe indicar a traves de un mensaje en pantalla, la cantidad de caracteres que
+pose dicha cadena. Finalmente el programa debe de preguntar al usuario, ¿que parte de
+la cadena desea obtener?*/
 package Metodo_Length_Metodo_Substring;
 
-        import java.util.Scanner;
+import java.util.Scanner;
 
-        public class MetodoLength {
-    public static void main(String args[]){
+public class MetodoLength {
+    public static void main(String args[]) {
 
         String cadena_original = "", cadena_substraccion = "";
         int num_caracteres = 0, desde = 0, hasta = 0;

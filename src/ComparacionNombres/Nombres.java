@@ -7,7 +7,7 @@ package ComparacionNombres;
 import java.util.Scanner;
 
 public class Nombres {
-    public static void main(String args []){
+    public static void main(String args[]) {
         String nombreUno = "", nombreDos = "";
         Scanner entrada = new Scanner(System.in);
 
@@ -21,12 +21,10 @@ public class Nombres {
 
         // equals comprara que los nombres sean iguales
         // Con el Ignore Case, no importa si el nombre esta en Mayuscula o en miniscula
-        if (nombreUno.equalsIgnoreCase(nombreDos)){
+        if (nombreUno.equalsIgnoreCase(nombreDos)) {
             System.out.println("Los nombres son iguales");
-        }else {
+        } else {
             System.out.println("Los nombres ingresados son diferentes");
         }
     }
 }
-
-

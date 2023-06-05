@@ -9,8 +9,8 @@ dentro de cada posicion tal y como se muestra a continuacion.
 package Matrices;
 
 public class Matrices {
-    public static void main(String args[]){
-        int numeros [][] = new int[2][2];
+    public static void main(String args[]) {
+        int numeros[][] = new int[2][2];
         numeros[0][0] = 5;
         numeros[0][1] = 2;
         numeros[1][0] = 2;

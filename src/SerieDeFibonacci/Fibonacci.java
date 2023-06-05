@@ -1,18 +1,18 @@
 package SerieDeFibonacci;
 
 public class Fibonacci {
-    public static void main(String args []){
+    public static void main(String args[]) {
         int i = 0, a = 0, b = 1, c = 0;
 
         System.out.println("Serie de Fibonacci con For");
 
-        for ( i = 0 ; i < 10; i++){
-            if (i < 9){
+        for (i = 0; i < 10; i++) {
+            if (i < 9) {
                 System.out.print(a + ",");
                 c = a + b;
                 a = b;
                 b = c;
-            }else {
+            } else {
                 System.out.println(a);
             }
         }
@@ -24,13 +24,13 @@ public class Fibonacci {
 
         System.out.println("Serie de Fibonacci con while");
 
-        while (i < 10){
-            if (i < 9){
+        while (i < 10) {
+            if (i < 9) {
                 System.out.print(a + ",");
                 c = a + b;
                 a = b;
                 b = c;
-            }else {
+            } else {
                 System.out.println(a);
             }
             i++;
@@ -44,15 +44,15 @@ public class Fibonacci {
 
         System.out.println("Serie de Fibonacci con Do-While");
         do {
-            if (i < 9){
+            if (i < 9) {
                 System.out.print(a + ",");
                 c = a + b;
                 a = b;
                 b = c;
-            }else {
+            } else {
                 System.out.println(a);
             }
             i++;
-        }while (i < 10);
+        } while (i < 10);
     }
 }
