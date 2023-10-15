@@ -1,4 +1,4 @@
-package Suma;
+package SumaNumeros;
 
 import java.util.Scanner;
 
