@@ -4,7 +4,37 @@ Este repositorio contiene una colección de ejercicios en Java organizados por s
 
 ## Estructura del Proyecto
 
+- **AreaDeUnRombo**
+- **Boton**
+- **Botones**
+- **CicloDoWhile**
+- **CicloFor**
+- **CiclosNumeros**
+- **CiclosSeries**
+- **CicloWhile**
+- **ComparacionNombres**
+- **Eciacion**
+- **Ejercicios**
+- **FormularioJFrame**
+- **Formularios**
+- **InterfacesGradicas**
+- **LenguajeHacker**
+- **Matrices**
+- **MatricesDinamicas**
+- **Metodo_Length_Metodo_Substring**
+- **OperacionesMatematicas**
+- **OperacionesSwitch**
+- **PromedioMaterias**
+- **Serie**
+- **SerieDeFibonacci**
+- **SistemaCocaColaCompany**
+- **SistemaLogin**
+- **SumaNumeros**
+- **VectoresDinamicos**
+
+
 ### Curso de Métodos en Java
+
 
 #### Sesión 1
 1. **Saludar**: Método para imprimir un mensaje de saludo en la consola.
