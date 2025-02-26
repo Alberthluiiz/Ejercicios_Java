@@ -1,4 +1,4 @@
-package Boton;
+package Practicas.Boton;
 
 import Formularios.Formulario;
 

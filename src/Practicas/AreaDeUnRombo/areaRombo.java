@@ -1,4 +1,4 @@
-package AreaDeUnRombo;
+package Practicas.AreaDeUnRombo;
 
 import java.util.Scanner;
 
