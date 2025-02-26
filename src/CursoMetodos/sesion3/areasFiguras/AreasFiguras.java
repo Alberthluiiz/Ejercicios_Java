@@ -1,4 +1,4 @@
-package CursoMetodos.sesion2.areasFugura;
+package CursoMetodos.sesion3.areasFiguras;
 
 public class AreasFiguras {
 

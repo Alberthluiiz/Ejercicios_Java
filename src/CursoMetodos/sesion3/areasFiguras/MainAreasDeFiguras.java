@@ -1,6 +1,8 @@
-package CursoMetodos.sesion2.areasFugura;
+package CursosMetodos.sesion3.AreasFiguras;
 
-public class MainAreasDeFiguras {
+import CursoMetodos.sesion3.areasFiguras.AreasFiguras;
+
+public class MainAreasDeFiguras{
     public static void main(String[] args) {
 
         AreasFiguras areasFigurasObjeto = new AreasFiguras();

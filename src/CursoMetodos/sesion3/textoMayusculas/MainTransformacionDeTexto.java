@@ -1,4 +1,6 @@
-package CursoMetodos.sesion2.textoMayuscula;
+package CursoMetodos.sesion3.textoMayusculas;
+
+import CursoMetodos.sesion3.textoMayusculas.TextoMayuscula;
 
 public class MainTransformacionDeTexto {
     public static void main(String[] args) {
