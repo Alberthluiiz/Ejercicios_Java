@@ -4,7 +4,7 @@ Este repositorio contiene una colección de ejercicios en Java organizados por s
 
 ## Estructura del Proyecto
 
-- **AreaDeUnRombo**
+- **Practicas.AreaDeUnRombo**
 - **Boton**
 - **Botones**
 - **CicloDoWhile**
