@@ -1,5 +1,5 @@
 /*Ejercicio 1: Hacer un programa que calcule e imprima la suma de tres calificaciones*/
-package Ats.Ejercicio_1;
+package Ats.Introduccion.Ejercicio_1;
 import java.util.Scanner;
 
 public class Ejercicio_1 {
